@@ -1,2 +1,2 @@
-x = str("Mrudhula")
+x = str("REDDY")
 print(x)
